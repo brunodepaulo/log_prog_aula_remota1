@@ -1,0 +1,7 @@
+Ok - Cadastrar as Peças - Criar um array
+
+Ok - Tem que superior a 100g para ser cadastrada - Peça >= 100g
+
+Ok - Capacidade Máxima de peças cadastradas é de 10un
+
+Ok - Verificar se a peça possui um nome de mais de 3 caracteres, se sim permitir o cadastro senao se a peca tiver o nome vazio, notificar o usuario, senao cadastro negado.
